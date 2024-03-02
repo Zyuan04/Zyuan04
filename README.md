@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pang-zhi-yuan-36b8542b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pang zhi yuan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zhiyuannn-1076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pang zhi yuan" height="30" width="40" /></a>
 <a href="https://instagram.com/_zhiyuannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zhiyuann" height="30" width="40" /></a>
 </p>
 
